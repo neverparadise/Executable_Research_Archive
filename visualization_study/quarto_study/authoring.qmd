@@ -1,0 +1,34 @@
+---
+title: "Quarto Document"
+author: "Kukjin Kim"
+toc: true
+number-sections: true
+highlight-style: pygments
+format: 
+#   pdf: 
+#     geometry: 
+#       - top=30mm
+#       - left=20mm
+  html: 
+    code-fold: true
+    code-tools: true
+    html-math-method: katex
+#   docx: default
+---
+
+## Colors
+- Red
+- Green 
+- Blue
+
+## Shapes
+
+- Square
+- Circle
+- Triangle
+
+## Textures
+
+- Smooth
+- Bumpy
+- Fuzzy

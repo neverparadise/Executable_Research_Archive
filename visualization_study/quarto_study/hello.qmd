@@ -6,15 +6,19 @@ format:
 jupyter: python3
 ---
 
-
 # Headline 1
+
 ## Headline 2
+
 ### Headline 3
+
 ### Headline 4
+
 #### Headline 5
-- Contents 1
-- Contents 2
-- Contents 3
+
+-   Contents 1
+-   Contents 2
+-   Contents 3
 
 $y = ax + b$
 
@@ -37,4 +41,3 @@ ax.set_rticks([0.5, 1, 1.5, 2])
 ax.grid(True)
 plt.show()
 ```
-
