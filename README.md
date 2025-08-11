@@ -2,13 +2,17 @@
 # Contents
 "You can't learn anything unless you do it yourself."  
 This repository organizes my personal research with executable code.  
-It contains the following:
+It contains the following contents:
+# Topics
 - Physics
 - Mathematics
-- Neuroscience
-- Robotics
 - Dynamical system
 - Network science
+- Neuroscience
+- Robotics
+- Computer science
+
+## Subtopics
 - Deep learning
 - Reinforcement learning
 - DL Framework
@@ -16,4 +20,3 @@ It contains the following:
 - Development tool
 - Generative Model
 - Predictive coding network
-- 
